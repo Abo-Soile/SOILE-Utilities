@@ -1,0 +1,13 @@
+### Eclipse ###
+*/.classpath
+*/.project
+*/.settings/**/*
+.metadata
+
+### Compiled Files ###
+**/target/**/*
+
+
+### logs ###
+soile-http_server/logs/*
+
